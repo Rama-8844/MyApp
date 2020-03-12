@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "react-sp-fx-pn-p-client-side-solution",
+    "id": "538799ba-9cb7-4e8e-85d8-295c3204cfbf",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/react-sp-fx-pn-p.sppkg"
+  }
+}
